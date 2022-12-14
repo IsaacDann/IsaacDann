@@ -1,4 +1,4 @@
-
+<img src="https://imgur.com/pHjzX8Y" />
 <h1 align="center">Hi 👋, I'm Isaac Dann</h1>
 <h3 align="center">A fullstack web developer with a passion for finding modern, accessible, and sophisticated solutions. I also have a deep interest in AI and web3.</h3>
 
