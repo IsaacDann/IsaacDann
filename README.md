@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Isaac Dann</h1>
 <h3 align="center">A fullstack web developer with a passion for finding modern, accessible, and sophisticated solutions. I also have a deep interest in AI and web3.</h3>
 
-- 🌱 I’m currently learning **Rust, Solidity**
+- 🌱 I’m currently learning **Rust && Solidity**
 
 - 👨‍💻 Some of my projects are available at [isaacdann.netlify.app](isaacdann.netlify.app)
 
